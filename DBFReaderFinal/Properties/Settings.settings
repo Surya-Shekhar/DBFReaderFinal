@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DBFReaderFinal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="noofdays" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="files" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GCHKINFO.dbf,EMP.DBF,BTN.DBF</Value>
+    </Setting>
+    <Setting Name="mainfilepath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\suray.bhattcharya\Downloads\wetransfer-d19d70\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
